@@ -1,0 +1,15 @@
+# Environment variables (contains passwords - never commit this!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs
+log.txt
+*.log
